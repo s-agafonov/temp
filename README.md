@@ -1,5 +1,5 @@
 # temp
-(100) class:
+01 class:
 - int main();
 - printf();
 - scanf;
